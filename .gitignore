@@ -1,0 +1,33 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.swp
+*.swo
+*.bak
+*.orig
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# Environments
+.env
+venv/
+env/
+ENV/
+.venv/
+ENV.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
